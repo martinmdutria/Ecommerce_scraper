@@ -1,15 +1,12 @@
 ===========================================================================
-# Project Alfred (In progress)
+# Project Alfred 
 ===========================================================================
 
 ## Goals: 
-[What problem does the software solve]
+[Web to filter products from different ecommerce and find the most convenient price]
 
 ## Tecnologies
-[Reed requirements.txt]
-
-## Motivation
-[Reasons for the project]
+[Read requirements.txt]
 
 
 ---
